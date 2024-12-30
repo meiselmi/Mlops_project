@@ -55,11 +55,5 @@ This project showcases a robust **MLOps** workflow by implementing an **end-to-e
 4. **Deploy Model:**  
    The trained model is deployed in a controlled Docker environment, and its performance is tracked using MLflow.
 
----
 
-## 🔧 Installation & Usage:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mlops-pipeline.git
-   cd mlops-pipeline
